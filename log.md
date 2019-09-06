@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 2: Wed 09-05-2019
+
+**Today's Progress**: Spent most of today working on the design of the date calculator. Got reacquainted with DOM manipulation and CSS grid.  
+
+**Thoughts** Realized today that it has been awhile since I'd written any CSS or HTML. It was a good day of practice, and also my first time using CSS Grid in any meaningful way. 
+
+**Link(s) to work**
+Sbux Date Calc --> https://github.com/mangomateo/sbux-date-calc
+
+
+
 ### Day 1: Wed 09-04-2019
 
 **Today's Progress**: I started working on a date calculator app that will help quickly identify expiry dates for food products where I work (Starbucks).
