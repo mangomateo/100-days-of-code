@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 3: Wed 09-09-2019
+
+**Today's Progress**: Changed styling on my date calculator project. Also did some DOM manipulation to show dates on the page. 
+
+**Thoughts** Haven't written any code in a few days, so it's nice to get back on the horse! 
+
+**Link(s) to work**
+Sbux Date Calc --> https://github.com/mangomateo/sbux-date-calc
+
 
 
 ### Day 2: Wed 09-05-2019
